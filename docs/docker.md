@@ -2,8 +2,8 @@
 
 1. Clone repository
 ```shell
-git clone https://github.com/Coderberg/ResidenceCMS.git
-cd ResidenceCMS
+git clone https://github.com/git-buzzlightyear/ResidenceCMS-Symfony.git
+cd ResidenceCMS-Symfony
 ```
 
 2. Create a `.env.local` file and update the `MAILER_DSN` variable to use Mailpit

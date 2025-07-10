@@ -19,7 +19,7 @@ ResidenceCMS is a fast and lightweight Property Management System on top of [Sym
 2. Create new project via [Composer][3]
 
    ```
-   $ composer create-project coderberg/residence-cms mywebsite.loc
+   $ composer create-project git-buzzlightyear/ResidenceCMS mywebsite.loc
    ```
 3. Enter the newly created folder
 
@@ -76,4 +76,4 @@ ResidenceCMS is a fast and lightweight Property Management System on top of [Sym
 [1]: https://symfony.com/
 [2]: https://symfony.com/doc/current/setup.html#technical-requirements
 [3]: https://getcomposer.org/doc/03-cli.md#create-project
-[4]: https://github.com/Coderberg/ResidenceCMS/blob/master/docs/docker.md
+[4]: https://github.com/git-buzzlightyear/ResidenceCMS-Symfony/blob/master/docs/docker.md
